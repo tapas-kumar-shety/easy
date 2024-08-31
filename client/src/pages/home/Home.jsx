@@ -22,7 +22,8 @@ function Home() {
       <div className="features">
         <div className="container">
         <div className="item">
-            <video src="./img/video.mp4" controls />
+          <h1>Mentorship that works for you</h1>
+           <img src="https://images.unsplash.com/photo-1512238972088-8acb84db0771?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
           </div>
           <div className="item">
             <h1>A world of top freelance talent at your command</h1>
@@ -42,7 +43,7 @@ function Home() {
               minutes.
             </p>
             <div className="title">
-              <img src="./img/check.png" alt="" />
+              <img src="./img/check.png" alt="img" />
               Escrow payment protection
             </div>
             <p>
@@ -63,9 +64,6 @@ function Home() {
             Anytime you need it. We're here to help around the clock.
             </p>
           </div>
-          {/* <div className="item">
-            <video src="./img/video.mp4" controls />
-          </div> */}
         </div>
       </div>
       <div className="explore">
